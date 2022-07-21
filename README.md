@@ -2,7 +2,7 @@
 
 <div align="center">
     
-<img src="assets/GIF-008.gif" style="width: 300px;" />
+<img src="assets/GIF-002.gif" style="width: 300px;" />
 
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:dougllas363@gmail.com)
     [![Linkedin:
